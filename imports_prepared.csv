@@ -1,4 +1,15 @@
 country,import_country,imports,exports
+United Arab Emirates,India,28583.0745649068,4414.88748681
+United Arab Emirates,China,20799.6968106304,4371.58112915
+United Arab Emirates,United States of America,4294.010673076,3727.54829911
+United Arab Emirates,Japan,2348.284498992,12707.941228117
+United Arab Emirates,South Korea,2133.51770258,5671.10500884
+United Arab Emirates,Germany,1884.62753898341,0.0
+United Arab Emirates,Indonesia,1612.51691442292,0.0
+United Arab Emirates,United Kingdom,1254.7775958858,1542.90632747
+United Arab Emirates,Others,13914.9185531333,11157.9782103263
+United Arab Emirates,Thailand,0.0,1808.51778845
+United Arab Emirates,Kenya,0.0,1074.067820708
 Madagascar,China,890.53118532585,32.64370692
 Madagascar,India,194.12180104314,0.0
 Madagascar,South Africa,121.0929979371,0.0
@@ -10,6 +21,7 @@ Madagascar,Mauritius,38.1752236649,23.411731476
 Madagascar,Others,419.95761069149,216.73687369639
 Madagascar,Indonesia,0.0,42.464659193
 Madagascar,United Kingdom,0.0,33.049699871
+Tonga,Others,0.0,0.0
 Ecuador,United States of America,3200.395540027,1879.7140587
 Ecuador,China,1750.73933145611,243.91597929
 Ecuador,Colombia,793.53939238,935.62891857
@@ -23,6 +35,7 @@ Ecuador,Peru,0.0,465.307203581
 Ecuador,Panama,0.0,458.70125745
 Ecuador,South Korea,0.0,407.57970954
 Ecuador,Japan,0.0,310.07724948
+Palau,Others,0.0,0.0
 Azerbaijan,China,695.23283819882,179.13873882
 Azerbaijan,Turkey,612.0710764643,298.3451817
 Azerbaijan,United States of America,293.4878040654,236.00478888
@@ -35,6 +48,18 @@ Azerbaijan,Others,676.95303319914,1257.31916363869
 Azerbaijan,Italy,0.0,1194.17478801
 Azerbaijan,France,0.0,411.27333694
 Azerbaijan,Austria,0.0,94.38335457
+Viet Nam,China,18350.1661222415,5513.52577841882
+Viet Nam,Japan,3661.692666356,7495.22862765405
+Viet Nam,Taiwan,3219.9679099911,0.0
+Viet Nam,South Korea,2611.530227734,2007.31072692515
+Viet Nam,United States of America,2392.848005155,2791.3055112947
+Viet Nam,Thailand,2358.804203876,0.0
+Viet Nam,India,1844.5094157076,0.0
+Viet Nam,Indonesia,1774.917847535,1200.96486273659
+Viet Nam,Others,7974.13387639922,13952.3750728376
+Viet Nam,Australia,0.0,2734.33150461345
+Viet Nam,Germany,0.0,2328.69388366206
+Viet Nam,United Kingdom,0.0,1466.47244086685
 Lithuania,China,1704.88356057703,168.282656439
 Lithuania,Poland,849.7681224665,279.569154085
 Lithuania,Germany,772.815928052491,435.25572428
@@ -131,18 +156,6 @@ Uruguay,Others,1369.6188501662,301.900100488257
 Uruguay,Paraguay,0.0,42.2593909416
 Uruguay,Chile,0.0,31.1263719669
 Uruguay,Mexico,0.0,23.46067112
-Macedonia,Bulgaria,542.4317131403,0.0
-Macedonia,China,248.28332721818,137.67353381
-Macedonia,Greece,218.967098820765,174.78563695
-Macedonia,Algeria,205.1407952,0.0
-Macedonia,Germany,205.045621620932,458.1180403
-Macedonia,Slovenia,132.51136727,0.0
-Macedonia,United States of America,107.8925150295,306.4766358
-Macedonia,Croatia,101.65685571,149.11195985
-Macedonia,Others,920.147926093929,1645.84524862264
-Macedonia,Italy,0.0,347.8673399
-Macedonia,Turkey,0.0,147.70397766
-Macedonia,France,0.0,137.5075227
 Djibouti,China,85.66591427662,6.653303192
 Djibouti,India,42.8354838879,4.183822862
 Djibouti,United States of America,11.6113816361,6.723094036
@@ -297,6 +310,7 @@ Uzbekistan,Italy,53.38893583011,374.77902518556
 Uzbekistan,Others,647.668679430743,3790.15004982189
 Uzbekistan,Japan,0.0,379.74180373402
 Uzbekistan,France,0.0,313.65520837335
+Faeroe Islands,Others,0.0,0.0
 Liberia,China,15.95267738647,20.30519407
 Liberia,India,8.69212093267,13.879610747
 Liberia,United States of America,5.24978086459,33.3746049
@@ -311,6 +325,7 @@ Liberia,Germany,0.0,47.18258506
 Liberia,United Kingdom,0.0,15.605234119
 Liberia,France,0.0,13.872662196
 Liberia,Serbia,0.0,12.12592368
+Marshall Islands,Others,0.0,0.0
 Belize,United States of America,186.9645699036,79.888368888
 Belize,China,38.14464857922,6.754750668
 Belize,Mexico,23.9271924477859,0.0
@@ -423,6 +438,19 @@ Panama,Guatemala,0.0,200.0899557078
 Panama,Honduras,0.0,181.5680748192
 Panama,El Salvador,0.0,167.031226726
 Panama,Costa Rica,0.0,135.5538076687
+Sierra Leone,China,127.32597014303,4.85880745
+Sierra Leone,India,48.52027054019,0.0
+Sierra Leone,United Kingdom,34.30368658736,4.98045641
+Sierra Leone,United States of America,32.1561003687,11.85152711
+Sierra Leone,South Africa,17.04706925756,0.0
+Sierra Leone,Japan,15.08272941069,0.0
+Sierra Leone,Germany,14.88462580165,3.5141646
+Sierra Leone,Poland,12.5975213299,0.0
+Sierra Leone,Others,216.47862809149,64.771512389
+Sierra Leone,Greece,0.0,19.14755782
+Sierra Leone,France,0.0,18.766938199
+Sierra Leone,Serbia,0.0,14.8284713
+Sierra Leone,Guyana,0.0,9.389657125
 Tanzania,India,1477.0590231808,154.91203738
 Tanzania,China,799.63976482827,127.16381252
 Tanzania,South Africa,658.172781104,0.0
@@ -469,6 +497,45 @@ Czechia,Austria,881.79155781277,0.0
 Czechia,Others,9183.81962623034,17322.7866184012
 Czechia,United Kingdom,0.0,2480.304213731
 Czechia,France,0.0,2215.7318574711
+Saudi Arabia,China,23531.4645790898,13355.16195179
+Saudi Arabia,India,14200.3960367312,21361.85499157
+Saudi Arabia,United States of America,12133.389656736,18524.19924799
+Saudi Arabia,Japan,4289.668414,17703.860493984
+Saudi Arabia,Germany,4166.4402511072,0.0
+Saudi Arabia,South Korea,3094.455821939,16160.06882248
+Saudi Arabia,Egypt,2718.500497243,0.0
+Saudi Arabia,Italy,1821.86547178234,0.0
+Saudi Arabia,Others,24933.8831285875,44875.7795514307
+Saudi Arabia,Indonesia,0.0,5727.121711814
+Saudi Arabia,United Kingdom,0.0,5463.75637337
+Saudi Arabia,Australia,0.0,3667.21009913
+Dominican Republic,United States of America,3034.790776175,3365.55639365
+Dominican Republic,China,1156.97878451435,48.91644751
+Dominican Republic,Spain,331.656071065861,0.0
+Dominican Republic,India,329.8477750215,0.0
+Dominican Republic,Mexico,272.069144123351,0.0
+Dominican Republic,Taiwan,259.08901811673,0.0
+Dominican Republic,Japan,238.1904854595,40.411164165
+Dominican Republic,Venezuela,234.8276908333,0.0
+Dominican Republic,Others,1879.53312444505,408.18359720768
+Dominican Republic,Guyana,0.0,171.838969894
+Dominican Republic,Canada,0.0,71.490011187
+Dominican Republic,Germany,0.0,64.5406424
+Dominican Republic,United Kingdom,0.0,49.193272987
+Dominican Republic,France,0.0,42.776301647
+Cape Verde,Portugal,90.2744042769,0.5858085595
+Cape Verde,China,50.19504037709,0.530688284
+Cape Verde,United States of America,19.9718171884,0.578413492
+Cape Verde,Japan,12.99691276731,0.249653385
+Cape Verde,Spain,11.906944144018,0.0
+Cape Verde,Germany,11.9052636290628,0.0
+Cape Verde,South Africa,9.04020741101,0.0
+Cape Verde,India,8.93374098312,0.0
+Cape Verde,Others,135.74325816818,6.279821988268
+Cape Verde,Serbia,0.0,2.62028047
+Cape Verde,Mauritania,0.0,1.6824771651
+Cape Verde,United Kingdom,0.0,0.302816388
+Cape Verde,Montenegro,0.0,0.279820119
 Austria,China,12251.4348237454,2436.854466122
 Austria,Germany,11111.7209280424,5374.5368053005
 Austria,United States of America,3143.396662719,3661.7571467435
@@ -509,6 +576,19 @@ Chad,Serbia,0.0,33.2262412
 Chad,Poland,0.0,5.084330517
 Chad,Portugal,0.0,4.745158428
 Chad,United Kingdom,0.0,4.18890368
+Democratic Republic of the Congo,South Africa,1783.029393591,0.0
+Democratic Republic of the Congo,China,857.64179372527,31.89194975
+Democratic Republic of the Congo,India,337.6111925478,0.0
+Democratic Republic of the Congo,Zambia,303.950754622,0.0
+Democratic Republic of the Congo,Belgium,256.9761011523,57.31034237
+Democratic Republic of the Congo,United States of America,175.6656102303,113.47928602
+Democratic Republic of the Congo,Germany,155.556706711861,26.96146164
+Democratic Republic of the Congo,Kenya,99.3470198513,0.0
+Democratic Republic of the Congo,Others,1046.13942107276,240.25188362726
+Democratic Republic of the Congo,France,0.0,32.482437443
+Democratic Republic of the Congo,United Kingdom,0.0,28.83083822
+Democratic Republic of the Congo,Finland,0.0,23.423632809
+Democratic Republic of the Congo,Italy,0.0,20.468871271
 Japan,China,211407.330231063,69777.9462394
 Japan,United States of America,48967.25802294,73026.02611604
 Japan,South Korea,22933.82716466,24017.69258851
@@ -618,6 +698,20 @@ Iraq,United States of America,209.1119016414,11844.225698831
 Iraq,Others,2276.84125688901,10335.0883826145
 Iraq,Spain,0.0,6391.81952911
 Iraq,South Korea,0.0,1476.629884647
+British Virgin Islands,Taiwan,39.07248727598,0.0
+British Virgin Islands,United States of America,21.23530652687,3.224650455
+British Virgin Islands,China,18.28643248678,1.068474955
+British Virgin Islands,India,6.06848357129,0.0
+British Virgin Islands,Trinidad and Tobago,5.93962272,0.0
+British Virgin Islands,South Africa,5.296613386062,1.4869384035
+British Virgin Islands,Japan,4.54826821175,0.0
+British Virgin Islands,Thailand,4.29189075349,0.0
+British Virgin Islands,Others,75.5079952911197,13.8312821693173
+British Virgin Islands,Switzerland,0.0,7.320750996
+British Virgin Islands,Italy,0.0,2.518587688
+British Virgin Islands,Serbia,0.0,1.897798769
+British Virgin Islands,Brazil,0.0,1.721383283
+British Virgin Islands,United Kingdom,0.0,1.275551
 Hungary,China,5145.02481913528,0.0
 Hungary,Germany,2769.10976115462,3581.8573232
 Hungary,Poland,1120.694111605,861.77526111
@@ -665,6 +759,7 @@ Canada,Taiwan,2724.3466134278,0.0
 Canada,Others,30784.9887893656,25042.0197646816
 Canada,United Kingdom,0.0,4123.82098796333
 Canada,France,0.0,1832.66742827681
+Guinea-Bissau,Others,0.0,0.0
 Mauritania,China,131.17986860232,63.603005713
 Mauritania,France,87.11628092608,86.43508696
 Mauritania,United States of America,70.6403147153,56.888445597
@@ -676,6 +771,17 @@ Mauritania,Morocco,26.190150017,0.0
 Mauritania,Others,369.798981598252,384.602775034052
 Mauritania,Nigeria,0.0,214.263152167
 Mauritania,Italy,0.0,78.692810015
+South Africa,China,13320.5823847386,16079.89946699
+South Africa,United States of America,6497.661754832,18248.792841
+South Africa,India,4780.4298227579,8094.360626567
+South Africa,Germany,3604.45648745978,5418.89259773
+South Africa,Japan,2145.846361317,7367.613203635
+South Africa,United Kingdom,1446.2596656213,7295.16697446
+South Africa,Taiwan,1418.2167127622,0.0
+South Africa,Australia,1397.600230811,0.0
+South Africa,Others,13929.8520450281,60345.5926113888
+South Africa,Botswana,0.0,5660.52873446
+South Africa,Namibia,0.0,3850.412141823
 France,China,54489.7951295966,7037.845067023
 France,Germany,23340.1829037139,10078.591074608
 France,United States of America,18686.589259921,12254.260964762
@@ -707,6 +813,31 @@ Poland,Japan,1697.754727041,0.0
 Poland,Others,20988.6373914097,25621.6776244272
 Poland,Slovakia,0.0,4315.111881
 Poland,United Kingdom,0.0,3945.84795438
+Trinidad and Tobago,United States of America,1035.11110029,6433.035302
+Trinidad and Tobago,China,595.2266758286,268.3798597
+Trinidad and Tobago,India,158.75749403086,0.0
+Trinidad and Tobago,Venezuela,146.2533951817,0.0
+Trinidad and Tobago,Japan,100.0727883657,0.0
+Trinidad and Tobago,Canada,81.2742357886617,382.8906748
+Trinidad and Tobago,Taiwan,57.62547408134,0.0
+Trinidad and Tobago,Brazil,55.5821817551,504.65754495
+Trinidad and Tobago,Others,678.770977486644,2435.05393258378
+Trinidad and Tobago,Guyana,0.0,14669.6901834
+Trinidad and Tobago,Mexico,0.0,468.0371737
+Trinidad and Tobago,France,0.0,421.24791911
+Trinidad and Tobago,Colombia,0.0,249.1945389
+Russian Federation & USSR,China,29802.0101821182,64570.655809077
+Russian Federation & USSR,Germany,9521.33300453166,38345.5213772807
+Russian Federation & USSR,United States of America,8091.23669012856,53807.8656172153
+Russian Federation & USSR,India,5613.82199979654,0.0
+Russian Federation & USSR,Poland,5093.20185405068,0.0
+Russian Federation & USSR,Italy,3097.51793745727,21611.2995492194
+Russian Federation & USSR,Czechia,2111.94094706162,0.0
+Russian Federation & USSR,Turkey,1987.29475868414,34944.3108723064
+Russian Federation & USSR,Others,32197.3997435078,233727.641731591
+Russian Federation & USSR,Japan,0.0,37570.0947432035
+Russian Federation & USSR,France,0.0,27110.0555379015
+Russian Federation & USSR,United Kingdom,0.0,22990.3330201755
 Serbia,China,669.0849902428,35.5633984
 Serbia,Taiwan,376.317003526,0.0
 Serbia,India,336.7041248909,11.00170458
@@ -720,6 +851,7 @@ Serbia,Montenegro,0.0,25.65914561
 Serbia,Malaysia,0.0,19.26812807
 Serbia,United Kingdom,0.0,18.32510118
 Serbia,Germany,0.0,13.99400781
+Dominica,Others,0.0,0.0
 Latvia,China,684.91817892124,70.679344562
 Latvia,Germany,454.587485130098,245.79571748
 Latvia,Poland,368.4377882413,0.0
@@ -733,6 +865,7 @@ Latvia,United Kingdom,0.0,224.10082245
 Latvia,Sweden,0.0,163.134982454
 Latvia,Denmark,0.0,85.960872126
 Latvia,France,0.0,66.305947298
+Solomon Islands,Others,0.0,0.0
 Croatia,China,1609.20874869648,0.0
 Croatia,Germany,1101.40291920389,767.21790033
 Croatia,Italy,982.52042473632,833.68758774
@@ -744,6 +877,31 @@ Croatia,India,334.9093326075,0.0
 Croatia,Others,3269.23531904139,1917.32087001527
 Croatia,United Kingdom,0.0,194.51499204
 Croatia,France,0.0,193.94603731
+United States of America,China,501965.416387193,67054.4226827
+United States of America,Canada,125664.001365297,79901.45842286
+United States of America,India,86845.543405138,0.0
+United States of America,Mexico,73749.4720573806,52014.20819849
+United States of America,Japan,73026.02611604,48967.25802294
+United States of America,Germany,42312.915066192,27486.95154391
+United States of America,South Korea,40649.45049263,28756.51746276
+United States of America,Taiwan,31025.247546877,0.0
+United States of America,Others,344407.91796681,319728.647113041
+United States of America,United Kingdom,0.0,38100.77918044
+United States of America,Guyana,0.0,31030.48893294
+Tuvalu,Others,0.0,0.0
+Burkina Faso,China,197.34856699743,0.0
+Burkina Faso,France,162.02774670524,7.214443019
+Burkina Faso,India,122.4023911927,10.367672695
+Burkina Faso,United States of America,80.6037147842,5.487978809
+Burkina Faso,Venezuela,73.4138010018,12.171409188
+Burkina Faso,Germany,50.5216755828859,0.0
+Burkina Faso,Taiwan,45.4050015802,0.0
+Burkina Faso,South Africa,41.13326855198,0.0
+Burkina Faso,Others,578.921215792203,61.4715815568381
+Burkina Faso,Italy,0.0,10.244186464
+Burkina Faso,Serbia,0.0,8.41121292
+Burkina Faso,Colombia,0.0,8.144178169
+Burkina Faso,Niger,0.0,5.9498086907
 Gabon,China,260.86459909592,643.300586705
 Gabon,France,229.67149520775,109.6882650951
 Gabon,United States of America,193.9675977224,1565.11146968
@@ -755,6 +913,36 @@ Gabon,Cameroon,45.636635379,0.0
 Gabon,Others,521.762593988946,692.459350221015
 Gabon,South Korea,0.0,209.6331245841
 Gabon,Spain,0.0,163.1461598158
+Central African Republic,China,17.98040313052,3.370111968
+Central African Republic,France,14.191458207318,5.079739886
+Central African Republic,India,13.45379784705,0.0
+Central African Republic,Cameroon,12.5927033962,0.0
+Central African Republic,Japan,10.40016784219,0.0
+Central African Republic,United States of America,6.7965647172,4.650246733
+Central African Republic,South Africa,6.256455479988,0.0
+Central African Republic,Germany,4.3949405261567,3.859865731
+Central African Republic,Others,79.2311406134746,36.171387985415
+Central African Republic,Belgium,0.0,7.6393745357
+Central African Republic,Serbia,0.0,6.781826763
+Central African Republic,United Kingdom,0.0,3.780981358
+Central African Republic,Spain,0.0,2.9211310421
+South Sudan,China,7.09817929864,0.0
+South Sudan,Zimbabwe,5.004420439,0.0
+South Sudan,South Africa,4.01619054594,0.0
+South Sudan,India,3.007694043706,0.0
+South Sudan,Poland,2.5324819263,0.0
+South Sudan,United States of America,2.45981822444,0.0
+South Sudan,Taiwan,2.10417216488,0.0
+South Sudan,Vietnam,1.7180914361592,0.0
+South Sudan,Others,33.8104860433521,0.0
+South Sudan,Albania,0.0,0.0
+South Sudan,Algeria,0.0,0.0
+South Sudan,Andorra,0.0,0.0
+South Sudan,Angola,0.0,0.0
+South Sudan,Antigua and Barbuda,0.0,0.0
+South Sudan,Argentina,0.0,0.0
+South Sudan,Aruba,0.0,0.0
+South Sudan,Afghanistan,0.0,0.0
 Tajikistan,China,195.38592028887,105.118179606
 Tajikistan,India,142.145370486,0.0
 Tajikistan,Turkey,82.5431824827,42.15160318
@@ -793,18 +981,18 @@ Norway,South Korea,1087.300056243,0.0
 Norway,Others,14098.4333302944,4909.30178760583
 Norway,France,0.0,759.33179769
 Norway,Italy,0.0,370.51129767
-Taiwan,China,6417.20918613719,13255.904812652
-Taiwan,United States of America,5181.316800126,31025.247546877
-Taiwan,Japan,4857.3832613,14848.9248623004
-Taiwan,South Korea,1344.814594176,6967.4977770933
-Taiwan,Malaysia,1030.37296823,0.0
-Taiwan,Vietnam,1013.83350972082,0.0
-Taiwan,Germany,868.057966640633,4347.0994396168
-Taiwan,India,755.4620477564,0.0
-Taiwan,Others,6720.63980316736,52904.4313951242
-Taiwan,Hong Kong,0.0,25156.09059923
-Taiwan,United Kingdom,0.0,5917.612222591
-Taiwan,Indonesia,0.0,3471.4457902872
+French Polynesia,China,282.28423794505,3.757938837
+French Polynesia,United States of America,161.5391827287,33.756581619
+French Polynesia,France,121.47987441098,4.907210574
+French Polynesia,Australia,72.0178998964,0.0
+French Polynesia,New Zealand,49.175717560885,0.0
+French Polynesia,Germany,41.4042425153367,2.488335535
+French Polynesia,Japan,37.4606347899,26.582946301
+French Polynesia,India,26.76513096205,0.0
+French Polynesia,Others,316.685054316465,28.231889417771
+French Polynesia,Serbia,0.0,5.43315139
+French Polynesia,Hong Kong,0.0,4.037749181
+French Polynesia,United Kingdom,0.0,1.997422443
 Estonia,China,770.42808572001,443.06113201
 Estonia,Germany,330.609695745887,796.21968676
 Estonia,Finland,253.636514155,1087.52372671
@@ -859,6 +1047,18 @@ Botswana,Norway,0.0,112.825916424
 Botswana,Zimbabwe,0.0,69.7770326792
 Botswana,Zambia,0.0,34.7700214391
 Botswana,Lesotho,0.0,26.9929258592
+El Salvador,United States of America,1642.2434413983,953.545051957
+El Salvador,China,841.22214705268,0.0
+El Salvador,Guatemala,537.1515669882,312.9281064108
+El Salvador,Mexico,297.160033324495,27.5544661249
+El Salvador,Honduras,189.642547245,206.0020428632
+El Salvador,Ecuador,174.590378657,0.0
+El Salvador,Panama,167.031226726,49.5651811182
+El Salvador,Japan,128.4304916488,0.0
+El Salvador,Others,1351.50622191155,222.162199603717
+El Salvador,Nicaragua,0.0,102.899549626
+El Salvador,Costa Rica,0.0,79.4359387776
+El Salvador,Germany,0.0,31.814064791
 Jamaica,United States of America,1558.1927504122,443.74327117
 Jamaica,China,498.76147023903,32.97787482
 Jamaica,Trinidad and Tobago,185.15303473,0.0
@@ -883,6 +1083,17 @@ Cyprus,United Kingdom,165.27156400172,100.513514794
 Cyprus,Others,1429.51880014979,230.70203000561
 Cyprus,Egypt,0.0,19.2341896605
 Cyprus,Serbia,0.0,16.92568104
+United Kingdom,China,89309.6826961196,7695.235840167
+United Kingdom,United States of America,38100.77918044,14164.444123185
+United Kingdom,Germany,25270.2110941286,7710.691543412
+United Kingdom,India,23008.78792814,4038.040810838
+United Kingdom,Japan,10044.77934462,0.0
+United Kingdom,France,9791.636341557,7081.0469268967
+United Kingdom,Netherlands,8045.598493851,0.0
+United Kingdom,Italy,7787.436392936,4344.8359239712
+United Kingdom,Others,110370.434039913,47765.4949740452
+United Kingdom,Spain,0.0,4257.2895037823
+United Kingdom,Ireland,0.0,3592.3639756361
 Burundi,India,35.89511157032,0.0
 Burundi,China,35.45510390408,4.89526417
 Burundi,South Africa,19.29030932974,0.0
@@ -969,6 +1180,17 @@ Ukraine,Turkey,817.109052147,4760.47305981695
 Ukraine,Others,7486.291861223,20669.0843294337
 Ukraine,Italy,0.0,2321.16571465245
 Ukraine,France,0.0,1369.58886024663
+Brunei Darussalam,China,342.06348112135,466.80818803
+Brunei Darussalam,Malaysia,217.1094873131,0.0
+Brunei Darussalam,United States of America,157.5246253457,426.82674027
+Brunei Darussalam,India,103.38249087362,0.0
+Brunei Darussalam,Singapore,102.13427134364,129.235278731
+Brunei Darussalam,Indonesia,88.882439846362,75.069477357
+Brunei Darussalam,Japan,80.9566577512,1779.300261
+Brunei Darussalam,Thailand,64.62829727615,385.6346538
+Brunei Darussalam,Others,389.02921227953,609.944011347299
+Brunei Darussalam,South Korea,0.0,1040.50758814
+Brunei Darussalam,Australia,0.0,143.79450867
 Slovakia,Poland,4315.111881,1189.747845628
 Slovakia,China,4281.29753918694,0.0
 Slovakia,Czechia,3633.2202621845,1737.985571802
@@ -1063,23 +1285,18 @@ Singapore,Taiwan,3369.0478245415,0.0
 Singapore,Others,25443.4503327744,8330.83880887126
 Singapore,Australia,0.0,1312.1313510426
 Singapore,Vietnam,0.0,1189.357117493
-Palestine,China,880.35009989855,0.0
-Palestine,Germany,226.906271814945,0.0
-Palestine,United States of America,191.4167793925,0.0
-Palestine,Turkey,93.5694637588,0.0
-Palestine,France,58.29476520927,0.0
-Palestine,Spain,49.33915631772,0.0
-Palestine,India,46.27255660763,0.0
-Palestine,Taiwan,45.7887021087,0.0
-Palestine,Others,521.703467634757,0.0
-Palestine,Albania,0.0,0.0
-Palestine,Algeria,0.0,0.0
-Palestine,Andorra,0.0,0.0
-Palestine,Angola,0.0,0.0
-Palestine,Antigua and Barbuda,0.0,0.0
-Palestine,Argentina,0.0,0.0
-Palestine,Aruba,0.0,0.0
-Palestine,Afghanistan,0.0,0.0
+Ivory Coast,China,525.26439833394,0.0
+Ivory Coast,India,246.46728446838,238.69491027
+Ivory Coast,France,155.01870201722,462.77792395
+Ivory Coast,Nigeria,152.92964556647,0.0
+Ivory Coast,United States of America,88.5723364035,421.18296201
+Ivory Coast,Germany,66.7281226679355,233.6647732
+Ivory Coast,South Africa,54.84075122271,0.0
+Ivory Coast,Italy,50.114141939171,199.40764424
+Ivory Coast,Others,501.597560209454,1439.7739314077
+Ivory Coast,Spain,0.0,180.3170063
+Ivory Coast,United Kingdom,0.0,155.85326483
+Ivory Coast,Mali,0.0,142.24290266
 Slovenia,China,1566.09201848995,264.00996795
 Slovenia,Germany,1023.20142426488,1110.67656946
 Slovenia,Italy,703.701491191017,703.07650424
@@ -1178,6 +1395,17 @@ Mauritius,United Kingdom,0.0,150.457960708
 Mauritius,Madagascar,0.0,38.1752236649
 Mauritius,Italy,0.0,24.121994506
 Mauritius,Japan,0.0,17.052820931
+Bosnia and Herzegovina,Croatia,428.581354427,524.03353297
+Bosnia and Herzegovina,Italy,380.071071896493,682.88598642
+Bosnia and Herzegovina,Germany,217.977170356149,651.81298032
+Bosnia and Herzegovina,China,214.36291833849,0.0
+Bosnia and Herzegovina,Slovenia,196.842103061,246.84405813
+Bosnia and Herzegovina,United States of America,78.3896137171,293.14022145
+Bosnia and Herzegovina,Austria,74.29564704079,177.984959414
+Bosnia and Herzegovina,Hungary,74.1308907,0.0
+Bosnia and Herzegovina,Others,731.190073337593,1397.08582618033
+Bosnia and Herzegovina,France,0.0,220.77716147
+Bosnia and Herzegovina,Serbia,0.0,128.8573134
 Jordan,China,2699.49555293487,151.24890901
 Jordan,India,864.6779538586,1161.27592505
 Jordan,United States of America,684.3998233865,262.22386801
@@ -1215,18 +1443,6 @@ Argentina,Others,12127.3966991542,12166.263206253
 Argentina,Uruguay,0.0,1551.40792816829
 Argentina,Paraguay,0.0,1281.81933354107
 Argentina,Italy,0.0,930.565652306618
-Kyrgyzstan,China,342.30987639281,159.98894026
-Kyrgyzstan,United States of America,126.7966119589,52.236050456
-Kyrgyzstan,Turkey,79.1509294173,0.0
-Kyrgyzstan,India,65.5664786877,23.9112304009
-Kyrgyzstan,Germany,52.8685004168453,63.201005173
-Kyrgyzstan,Japan,31.0588599108,21.583499007
-Kyrgyzstan,Poland,30.2271230237,0.0
-Kyrgyzstan,South Korea,19.7548511494,0.0
-Kyrgyzstan,Others,369.458743419124,368.105729070392
-Kyrgyzstan,Afghanistan,0.0,41.2689138501
-Kyrgyzstan,Serbia,0.0,31.6762673215
-Kyrgyzstan,United Kingdom,0.0,20.0322814051
 Ireland,China,5814.08267353087,518.81606866
 Ireland,United Kingdom,3592.3639756361,4446.4216102
 Ireland,United States of America,3450.565755099,2112.35490166
@@ -1296,6 +1512,22 @@ Greenland,Antigua and Barbuda,0.0,0.0
 Greenland,Argentina,0.0,0.0
 Greenland,Aruba,0.0,0.0
 Greenland,Afghanistan,0.0,0.0
+Equatorial Guinea,Others,0.0,0.0
+Costa Rica,United States of America,2916.987967737,1264.10909394
+Costa Rica,China,1099.1463696607,0.0
+Costa Rica,Mexico,376.618654582563,107.660072403
+Costa Rica,Japan,201.6574505972,0.0
+Costa Rica,India,173.28643040656,0.0
+Costa Rica,Brazil,169.0424098107,0.0
+Costa Rica,South Korea,155.1597385658,0.0
+Costa Rica,Taiwan,152.3444493977,0.0
+Costa Rica,Others,1888.60438211859,869.77615113414
+Costa Rica,United Kingdom,0.0,215.86085273
+Costa Rica,Panama,0.0,141.421244535
+Costa Rica,Nicaragua,0.0,103.550843494
+Costa Rica,Guatemala,0.0,97.849453106
+Costa Rica,Germany,0.0,81.43581644
+Costa Rica,El Salvador,0.0,75.107488924
 Greece,China,7575.77597204183,0.0
 Greece,Germany,3212.97102101033,836.75296458457
 Greece,Italy,2268.6466819233,760.88875903383
@@ -1308,6 +1540,7 @@ Greece,Others,12724.0705376652,3946.94442234019
 Greece,United Kingdom,0.0,561.3113878727
 Greece,Turkey,0.0,467.17279148132
 Greece,Albania,0.0,332.3308353332
+Comoros,Others,0.0,0.0
 China,South Korea,95451.328332,79523.4038138507
 China,Japan,69777.9462394,211407.330231063
 China,United States of America,67054.4226827,501965.416387193
@@ -1462,6 +1695,7 @@ Bulgaria,Romania,309.268317554,1008.6996052406
 Bulgaria,Others,2964.00504256759,8707.11565697784
 Bulgaria,France,0.0,1460.414616271
 Bulgaria,United Kingdom,0.0,1107.763187427
+Grenada,Others,0.0,0.0
 Georgia,Turkey,462.063807198,270.90278318
 Georgia,China,195.03428785536,52.51092157
 Georgia,Bulgaria,169.9365789757,0.0
@@ -1474,18 +1708,18 @@ Georgia,Others,527.380453270302,467.03130027784
 Georgia,France,0.0,81.165329815
 Georgia,Serbia,0.0,53.52678723
 Georgia,United Kingdom,0.0,39.66519811
-Venezuela,United States of America,5223.807259134,19600.777697275
-Venezuela,China,3715.57832742645,828.5944707
-Venezuela,Colombia,1640.43311632,1682.7846337858
-Venezuela,Brazil,1250.291975169,2115.166780604
-Venezuela,Netherlands,876.5117043187,0.0
-Venezuela,Germany,790.768279473324,0.0
-Venezuela,Mexico,688.731441970593,894.7684333393
-Venezuela,Spain,592.47114649991,0.0
-Venezuela,Others,6692.32749349132,8476.2612926589
-Venezuela,Guyana,0.0,6738.361921027
-Venezuela,United Kingdom,0.0,1023.7906559
-Venezuela,Canada,0.0,737.9717065496
+New Caledonia,Australia,167.8229701752,37.101680914
+New Caledonia,China,120.41914328618,55.06220805
+New Caledonia,France,112.78649417693,23.632637962
+New Caledonia,United States of America,45.435319621,43.03931915
+New Caledonia,New Zealand,33.291157521751,0.0
+New Caledonia,Germany,30.1508980156728,0.0
+New Caledonia,India,22.40157069976,0.0
+New Caledonia,Japan,20.6592274524,84.86030137
+New Caledonia,Others,263.274778984472,138.34376476371
+New Caledonia,South Korea,0.0,16.351398519
+New Caledonia,Serbia,0.0,14.7906573
+New Caledonia,Spain,0.0,11.274739967
 Pakistan,China,7039.02969202647,5305.7891852
 Pakistan,India,1147.1590779543,0.0
 Pakistan,United States of America,831.9242218191,7534.71829889
@@ -1523,6 +1757,7 @@ Algeria,Turkey,550.2797416599,0.0
 Algeria,Others,4546.89035801408,23504.3193767368
 Algeria,Brazil,0.0,6567.34927169
 Algeria,United Kingdom,0.0,4057.9198372
+Kiribati,Others,0.0,0.0
 Syria,China,2093.39164344206,314.99205175
 Syria,India,834.1846123036,0.0
 Syria,United States of America,318.8699521675,711.75338541
@@ -1560,6 +1795,33 @@ Finland,Italy,587.80690485816,724.50648275
 Finland,Sweden,548.93946623,1213.71673539
 Finland,Others,7743.42663446377,8089.39209149051
 Finland,France,0.0,970.94007554
+Antigua and Barbuda,United States of America,149.1486124648,3.867707598
+Antigua and Barbuda,Trinidad and Tobago,25.892664846,0.0
+Antigua and Barbuda,Netherlands,23.52962660297,2.5599368
+Antigua and Barbuda,China,22.6061584609,3.37845727
+Antigua and Barbuda,Japan,8.32535305506,0.0
+Antigua and Barbuda,Canada,8.02513891962719,0.0
+Antigua and Barbuda,Croatia,7.5422983963,0.0
+Antigua and Barbuda,India,6.64587438825,0.0
+Antigua and Barbuda,Others,87.0877845151421,33.535941079494
+Antigua and Barbuda,Germany,0.0,8.93008595
+Antigua and Barbuda,Serbia,0.0,8.80424953
+Antigua and Barbuda,South Korea,0.0,6.756785583
+Antigua and Barbuda,Guyana,0.0,6.32503213
+Antigua and Barbuda,United Kingdom,0.0,2.095345049
+South Korea,China,79523.4038138507,95451.328332
+South Korea,United States of America,28756.51746276,40649.45049263
+South Korea,Japan,24017.69258851,22933.82716466
+South Korea,India,7805.453150304,8592.01183684
+South Korea,Taiwan,6967.4977770933,0.0
+South Korea,Indonesia,6799.544344993,5569.8441165
+South Korea,Australia,6251.692725019,0.0
+South Korea,Malaysia,4839.81347978,0.0
+South Korea,Others,42395.6818706094,65164.6327834071
+South Korea,Hong Kong,0.0,9007.4945873
+South Korea,United Kingdom,0.0,5623.3655511
+South Korea,Germany,0.0,5023.0860598
+Timor-Leste,Others,0.0,0.0
 Samoa,United States of America,15.82792381307,2.446804414
 Samoa,China,12.65160529262,1.568711398
 Samoa,Australia,11.81244805754,20.637038362
@@ -1581,31 +1843,19 @@ Zambia,Germany,43.60064917109,32.154977025
 Zambia,Botswana,34.7700214391,0.0
 Zambia,Others,385.913122762331,467.101740944006
 Zambia,Democratic Republic of the Congo,0.0,303.950754622
-Iran,China,13772.954465255,13580.38934736
-Iran,India,6772.9516054489,0.0
-Iran,Japan,4853.793772506,10451.463154509
-Iran,Germany,4665.77431242404,0.0
-Iran,United States of America,3299.235660594,4841.04533707
-Iran,South Korea,2655.80615903,7032.658735507
-Iran,Canada,2569.14950577604,0.0
-Iran,Thailand,2210.7101800602,0.0
-Iran,Others,24158.2837135463,39427.843111033
-Iran,Italy,0.0,8113.581648488
-Iran,Spain,0.0,5790.303529452
-Iran,Turkey,0.0,4259.455783716
-Iran,Greece,0.0,4176.659303573
-Yemen,China,1979.04395746953,3286.4335477
-Yemen,India,1456.7153166122,1350.06495774
-Yemen,United States of America,293.0886921797,622.33162915
-Yemen,Thailand,148.01460746073,1323.7280763
-Yemen,Germany,139.360103624035,0.0
-Yemen,Japan,133.2622858662,334.92189622
-Yemen,Indonesia,121.56582653888,0.0
-Yemen,Taiwan,112.7336715058,0.0
-Yemen,Others,1019.59494374347,1405.77017238722
-Yemen,South Korea,0.0,1261.37761923
-Yemen,Hong Kong,0.0,147.71506131
-Yemen,Singapore,0.0,138.679140586
+Sri Lanka,India,6165.7777932316,241.13511275
+Sri Lanka,China,1234.19014388117,136.720473815
+Sri Lanka,Japan,358.8768926541,197.727498239
+Sri Lanka,United States of America,335.6022731908,1327.002672114
+Sri Lanka,South Korea,308.851733944,0.0
+Sri Lanka,Taiwan,292.99972880746,0.0
+Sri Lanka,Indonesia,287.26832521682,0.0
+Sri Lanka,Malaysia,254.019834826,0.0
+Sri Lanka,Others,1641.60049941985,1272.32372446934
+Sri Lanka,United Kingdom,0.0,499.85370678
+Sri Lanka,Germany,0.0,277.6250576596
+Sri Lanka,France,0.0,167.4157546242
+Sri Lanka,Italy,0.0,113.9485797245
 Congo,India,358.9278098805,79.3430184965
 Congo,China,235.04131255826,1526.25286926
 Congo,United States of America,127.5211158829,570.587891381
@@ -1654,6 +1904,7 @@ Haiti,Serbia,0.0,12.20697475
 Haiti,France,0.0,10.078470179
 Haiti,Canada,0.0,6.613648036
 Haiti,United Kingdom,0.0,3.476274939
+Nauru,Others,0.0,0.0
 Lebanon,China,2513.36934058913,0.0
 Lebanon,India,863.1882949385,0.0
 Lebanon,United States of America,674.2636861825,155.71578129
@@ -1691,23 +1942,6 @@ Brazil,Others,40729.6958022328,30372.8724818741
 Brazil,United Kingdom,0.0,2060.478131241
 Brazil,Chile,0.0,2018.685721431
 Brazil,Mexico,0.0,1997.198876532
-Monaco,China,13.9514415635,0.0
-Monaco,India,6.45580434823,0.0
-Monaco,South Africa,5.683782552809,0.0
-Monaco,Zimbabwe,4.912746163,0.0
-Monaco,United States of America,4.7730751102,0.0
-Monaco,Taiwan,4.38530652649,0.0
-Monaco,Poland,4.116095385,0.0
-Monaco,Vietnam,3.9911192976645,0.0
-Monaco,Others,73.6323663125913,0.0
-Monaco,Albania,0.0,0.0
-Monaco,Algeria,0.0,0.0
-Monaco,Andorra,0.0,0.0
-Monaco,Angola,0.0,0.0
-Monaco,Antigua and Barbuda,0.0,0.0
-Monaco,Argentina,0.0,0.0
-Monaco,Aruba,0.0,0.0
-Monaco,Afghanistan,0.0,0.0
 Nigeria,China,9412.28596260392,2130.216897347
 Nigeria,India,7770.4815255295,0.0
 Nigeria,United States of America,2577.15661027,16124.794471993
@@ -1781,6 +2015,20 @@ Oman,Others,1990.94101813392,5794.27303117873
 Oman,Thailand,0.0,1746.0839358
 Oman,Hong Kong,0.0,631.63096749
 Oman,Malaysia,0.0,551.720681482
+Sao Tome and Principe,Portugal,9.3896155523,0.0
+Sao Tome and Principe,China,9.07954237742,0.74063524
+Sao Tome and Principe,South Africa,4.196148633839,0.0
+Sao Tome and Principe,Zimbabwe,3.931965562,0.0
+Sao Tome and Principe,India,3.741608767875,0.0
+Sao Tome and Principe,Poland,3.6123522253,0.0
+Sao Tome and Principe,United States of America,3.48708698741,0.715012982
+Sao Tome and Principe,Japan,3.41183311047,0.37594944
+Sao Tome and Principe,Others,51.1863429270249,8.01265142919445
+Sao Tome and Principe,Serbia,0.0,3.254377987
+Sao Tome and Principe,United Kingdom,0.0,0.355896619
+Sao Tome and Principe,Turkey,0.0,0.3359727087
+Sao Tome and Principe,Germany,0.0,0.300321314
+Sao Tome and Principe,Montenegro,0.0,0.2982363476
 Somalia,China,5.44246073872,2.47163071
 Somalia,Zimbabwe,4.993926918,0.0
 Somalia,South Africa,4.01226358536,0.0
@@ -1843,6 +2091,19 @@ Ethiopia,Others,519.965677504246,1182.1646035575
 Ethiopia,United Kingdom,0.0,138.12980747
 Ethiopia,Serbia,0.0,113.05414903
 Ethiopia,France,0.0,94.73891143
+Papua New Guinea,Australia,760.9290667904,1105.43271365
+Papua New Guinea,China,400.49696805257,916.00492382
+Papua New Guinea,India,103.41071628737,0.0
+Papua New Guinea,United States of America,92.6871976029,319.675548069
+Papua New Guinea,Indonesia,83.93594602349,0.0
+Papua New Guinea,Malaysia,73.984570898,0.0
+Papua New Guinea,Japan,71.8184854445,526.09152554
+Papua New Guinea,Thailand,52.28375911729,0.0
+Papua New Guinea,Others,367.745530384435,949.64226278991
+Papua New Guinea,South Korea,0.0,199.183392964
+Papua New Guinea,Germany,0.0,136.367141197
+Papua New Guinea,United Kingdom,0.0,106.668406896
+Papua New Guinea,Italy,0.0,86.562497718
 Seychelles,South Africa,109.9699558405,0.0
 Seychelles,China,55.43357408177,0.0
 Seychelles,India,54.42240533211,0.0
@@ -1856,21 +2117,6 @@ Seychelles,France,0.0,13.280858949
 Seychelles,Serbia,0.0,9.5060323
 Seychelles,Germany,0.0,9.206209941
 Seychelles,Netherlands,0.0,4.7309033761
-Swaziland,South Africa,2087.360139879,0.0
-Swaziland,China,87.61460814724,0.0
-Swaziland,United States of America,38.65276034789,16.70083021
-Swaziland,India,32.6703477086,0.0
-Swaziland,Germany,20.2281354620677,0.0
-Swaziland,Japan,15.41332103785,0.0
-Swaziland,Taiwan,12.30356961779,0.0
-Swaziland,United Kingdom,9.55659453416,15.30934331
-Swaziland,Others,144.454025174755,86.60626074621
-Swaziland,South Korea,0.0,14.643883888
-Swaziland,Guyana,0.0,13.119737108
-Swaziland,Mauritania,0.0,10.084465874
-Swaziland,Mozambique,0.0,9.60810494
-Swaziland,Serbia,0.0,6.710039
-Swaziland,Zimbabwe,0.0,6.1765872475
 Mexico,United States of America,52014.20819849,73749.4720573806
 Mexico,China,28041.7337168537,2396.00760606742
 Mexico,India,5315.3889855112,0.0
@@ -1899,3 +2145,15 @@ Montenegro,Antigua and Barbuda,0.0,0.0
 Montenegro,Argentina,0.0,0.0
 Montenegro,Aruba,0.0,0.0
 Montenegro,Afghanistan,0.0,0.0
+New Zealand,China,5110.00716488266,1706.0699548296
+New Zealand,Australia,4525.8123883599,2485.1958534067
+New Zealand,United States of America,2489.389672525,1942.1638597784
+New Zealand,Japan,983.488191575,1510.8733939632
+New Zealand,India,978.9524798846,0.0
+New Zealand,Germany,591.549221343405,0.0
+New Zealand,South Korea,533.636350192,620.44585669919
+New Zealand,Malaysia,373.465214172,0.0
+New Zealand,Others,3818.79901853189,4892.41302290285
+New Zealand,United Kingdom,0.0,578.58483090385
+New Zealand,Guyana,0.0,473.00902501725
+New Zealand,Hong Kong,0.0,472.46191688428
